@@ -2,8 +2,6 @@
 
 <br>
 
-<img src="https://i.ibb.co/Hx1krkt/521a5ee5-57de-485f-a40f-1b7933d4ec73-Photoroom-removebg-preview.png" alt="ilustração de um computador" min-width="200px" max-width="300px" width="300px" align="right">
-
 <p align="left"> 
   Estudante de Análise e Desenvolvimento de Sistemas na SPTech School
 </p>
@@ -14,18 +12,8 @@
 
 <br><br>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovn-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br><br>
-
-## 🚀 Stacks que mais estudo
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql)](https://skillicons.dev)<br><br>
+## 🚀 Stacks
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,postman,git)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
