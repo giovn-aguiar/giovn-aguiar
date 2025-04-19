@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Perfil acadêmico para publicar meus projetos desenvolvidos na faculdade
-- 🌱 Entusiasta de Python e área de dados no geral.
+- 🌱 Amo a área de dados e tenho buscado me desenvolver em python.
 - 💬 Acesse meu [perfil principal](https://github.com/gio-aguiar) no Github
 
 <br><br>
