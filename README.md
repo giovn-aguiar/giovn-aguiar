@@ -13,7 +13,7 @@
 <br><br>
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mysql,postman,git,linux)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,java,javascript,nodejs,express,postman,git,linux)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
