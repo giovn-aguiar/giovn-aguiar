@@ -3,17 +3,17 @@
 <br>
 
 <p align="left"> 
-  Estudante de Análise e Desenvolvimento de Sistemas na SPTech School
+  Dev Back-End
 </p>
 
-- 🔭 Perfil acadêmico para publicar meus projetos desenvolvidos na faculdade
-- 🌱 Amo a área de dados e tenho buscado me desenvolver em python.
-- 💬 Acesse meu [perfil principal](https://github.com/gio-aguiar) no Github
+💻 IT Assistant at F1rst | Open Finance @Santander <br>
+📚 Systems Analysis student | Java & Databases <br>
+🌱 Passionate about social causes & empowering women in tech <br>
 
 <br><br>
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev/icons?i=mysql,python,java,javascript,nodejs,express,postman,git,linux)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,nodejs,express,postman,git,linux,hibernate)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
