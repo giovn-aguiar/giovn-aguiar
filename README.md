@@ -3,7 +3,6 @@
 <br>
 
 <p align="left"> 
-  Dev Back-End
 </p>
 
 💻 IT Assistant at F1rst | Open Finance @Santander <br>
