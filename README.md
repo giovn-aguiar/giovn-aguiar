@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Giovanna </h1>
+<h1 align="center">👋 Hello, I'm Giovanna </h1>
 
 <br>
 
