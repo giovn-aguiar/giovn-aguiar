@@ -12,7 +12,7 @@
 <br><br>
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,nodejs,express,postman,git,linux,hibernate)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,nodejs,express,postman,git,hibernate)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
