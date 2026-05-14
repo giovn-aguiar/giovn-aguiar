@@ -14,7 +14,4 @@
 ## 🚀 Stacks
 [![My Skills](https://skillicons.dev/icons?i=mysql,python,javascript,nodejs,postman,git,hibernate,grafana)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
 
-[![Linkedin: Giovanna](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torresaguiar/)](https://www.linkedin.com/in/torresaguiar/)
-<br><br>
