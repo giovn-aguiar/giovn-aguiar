@@ -6,13 +6,13 @@
 </p>
 
 💻 IT Assistant at F1rst | Open Finance @Santander <br>
-📚 Systems Analysis student | Java & Databases <br>
+📚 Systems Analysis student | Python & Databases <br>
 🌱 Passionate about social causes & empowering women in tech <br>
 
 <br><br>
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,javascript,nodejs,express,postman,git,hibernate)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,javascript,nodejs,postman,git,hibernate,grafana)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
