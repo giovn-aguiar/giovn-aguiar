@@ -5,9 +5,9 @@
 <p align="left"> 
 </p>
 
-💻 IT Assistant at F1rst | Open Finance @Santander <br>
-📚 Systems Analysis student | Python & Databases <br>
-🌱 Passionate about social causes & empowering women in tech <br>
+💻 Analista de TI na F1rst | Open Finance @Santander <br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas | Python & Databases <br>
+🌱 Engajada em empoderamento de mulheres na área tech! <br>
 
 <br><br>
 
