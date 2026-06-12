@@ -1,13 +1,17 @@
-<h1 align="center">👋 Hello, I'm Giovanna </h1>
+<h1 align="center"> Oi, eu sou a Gio 💜 </h1>
 
 <br>
 
-<p align="left"> 
-</p>
+💻 Analista de TI na F1rst | Santander<br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas<br>
+⚡ Python • JavaScript • automação • tecnologia criativa<br><br>
 
-💻 Analista de TI na F1rst | Open Finance @Santander <br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas | Python & Databases <br>
-🌱 Engajada em empoderamento de mulheres na área tech! <br>
+Curto muito explorar tecnologia além do jeito tradicional, desmonto as coisas, testo ideias aleatórias e transformando tecnologia em algo mais experimental, acessível e divertido. Tento sempre documentar cada passo para que o conhecimento seja passado adiante!<br><br>
+
+🧠 Compartilhando rabbit holes da internet maker, hardware hacking e projetos criativos<br>
+💜 Incentivando mais meninas a explorarem tecnologia sem medo de experimentar<br>
+
+> learn by breaking things<br>
 
 <br><br>
 
